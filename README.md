@@ -51,8 +51,7 @@ Tech used: React, TypeScript, Tailwind, Node.js, Express, MongoDB, Mongoose, JWT
 
 ## Connect
 - GitHub: https://github.com/evinjaison333-stack
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your email here
+- Email: evinjaison333@gmail.com
 
 ---
 Always learning, always building.
